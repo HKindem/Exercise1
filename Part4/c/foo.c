@@ -10,7 +10,7 @@ void* incrementingThreadFunction(){
 }
 
 void* decrementingThreadFunction(){
-    // TODO: decrement i 1_000_000 times
+    // TODO: decrement testi 1_000_000 times
     return NULL;
 }
 

@@ -1,0 +1,1 @@
+THe functions should combined result in i=0.  However, the treads are interfering and resulting in random output not equal to 0.  i++/-- is not atomic and therefore interfere as they are executed. 
